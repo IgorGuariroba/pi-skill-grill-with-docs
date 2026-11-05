@@ -1,0 +1,24 @@
+{
+  "name": "@igor-guari/pi-skill-grill-with-docs",
+  "version": "1.0.0",
+  "description": "A relentless interview to sharpen a plan or design, which also creates docs (ADR's and glossary) as we go.",
+  "keywords": [
+    "pi-package",
+    "pi-skill",
+    "pi",
+    "grill-with-docs",
+    "engineering-skills"
+  ],
+  "author": "Igor Guariroba",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IgorGuariroba/pi-skill-grill-with-docs.git"
+  },
+  "homepage": "https://github.com/IgorGuariroba/pi-skill-grill-with-docs#readme",
+  "pi": {
+    "skills": [
+      "."
+    ]
+  }
+}
